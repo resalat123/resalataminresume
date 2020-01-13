@@ -35,7 +35,7 @@ function submitForm(e) {
     //hide alert after 3 seconds
     setTimeout(function() {
         document.querySelector('.alert').style.display ='none';
-    }, 3000);
+    }, 6000);
     
 }
 

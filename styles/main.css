@@ -7274,11 +7274,27 @@ a.credit {
   padding-bottom: 0;
 }
 
+
+
+
+/* Form Alert */
 .alert{
   text-align: center;
   padding: 10px;
-  background: #79c879;
+  background: #f30404e1;
   color: #fff;
   margin-bottom: 10px;
   display: none;
+}
+/* Experience backgroud color */
+.experience-card-backgroud{
+  background-color: #0077B5;
+}
+/* Projects color */
+.projects-background{
+  background-color: #ff2727;
+}
+/* Education color */
+.education-background{
+  background-color: rgb(255, 151, 54);
 }
